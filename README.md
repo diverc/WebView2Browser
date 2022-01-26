@@ -1,0 +1,2 @@
+# WebView2Browser
+WebView2で単一ページだけを表示できるアプリ(子供にYouTubeにたどり着かせない)
